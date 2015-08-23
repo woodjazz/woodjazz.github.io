@@ -12,3 +12,7 @@ These are some games I made with Unity3D:
 Also, you can take a look at my c++ game engine:
 
 - [nsg-library](https://github.com/woodjazz/nsg-library)
+
+This is a demo using nsg-library:
+
+- [demo0](/nsgdemos/demo0/demo0.html)
