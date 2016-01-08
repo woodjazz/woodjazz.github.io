@@ -2,8 +2,7 @@
 layout: nsg
 ---
 
-
-<ins>**Unity3D**</ins>
+***
 
 >These are some free games I made with Unity3D:
 
@@ -12,8 +11,10 @@ layout: nsg
 >- [NaturalNums](http://woodjazz.github.io/NaturalNums/)
 >- [SpaceScenesAAA](http://woodjazz.github.io/SpaceScenesAAA/)
 
+***
 
-<ins>**[nsg-library](https://github.com/woodjazz/nsg-library)**</ins>
+# <ins>**[nsg-library](https://github.com/woodjazz/nsg-library)**</ins>
+
 
  >This is a C++11 game engine and framework that I have been working on. Features:
 
@@ -32,8 +33,10 @@ layout: nsg
 - Audio.
 - Exporter for blender files.
 
+#### [nsg-library/samples](https://github.com/woodjazz/nsg-library)
+
 >These are some examples (from the samples folder) generated with the Emscripten toolchain.
-Click on the link to run them in your browser:
+Click on the following links to run them in your browser:
 
 >- [animation](/samples/animation/animation.html)
 - [loader](/samples/loader/loader.html)
@@ -42,7 +45,7 @@ Click on the link to run them in your browser:
 - [momohome](/samples/momohome/momohome.html)
 - [planet](/samples/planet/planet.html)
 
->For some samples you can move and rotate the camera around:
+>For loader, momo and momoanimations you can move and rotate the camera around:
 
 >- Press the [F key] over object. This will center the view on the selected point.
 - Press the [C key] over object. This will center the view on the object's center.
@@ -51,3 +54,4 @@ Click on the link to run them in your browser:
 - Hold [Shift key] + [Left Mouse Button] to drag camera around.
 - Press [R key] to reset the camera position.
 
+>For momohome and planet you can connect a XBox360 gamepad to one USB and play around... (You can test your gamepad [here](http://html5gamepad.com/))
