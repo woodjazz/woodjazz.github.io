@@ -13,12 +13,15 @@ layout: nsg
 
 ***
 
->This is a C++11 game engine and framework that I have been working on.
+>This is a C++11 game engine and framework that I had been working on. 
+
 
 >- [nsg-library](https://github.com/woodjazz/nsg-library)
 
 ***
 
+<!--
 >Some Godot tests:
 
 >- [godot-ui-test](/tests/godot-ui-test/html/godot-test.html)
+-->
