@@ -6,10 +6,10 @@ layout: nsg
 
 >These are some free games I made with Unity3D:
 
->- [ClaudioArt](https://sites.google.com/site/claudioartpuzzle/)
->- [MonitoChips](https://sites.google.com/site/monitochips/)
->- [NaturalNums](https://sites.google.com/site/naturalnum/)
->- [SpaceScenesAAA](https://sites.google.com/site/spaceseries1/)
+>- [ClaudioArt](https://chrome.google.com/webstore/detail/claudioart/boefgheponklohdbbfiddjmpcdfhgfom?hl=en)
+>- [MonitoChips](https://chrome.google.com/webstore/detail/monito-chips/kfbamhbocmmdbiidjmkkjjockeblflji?hl=en)
+>- [NaturalNums](https://chrome.google.com/webstore/detail/natural-nums/ohbnahkbhehfjeckhlhmnkalgbfeppha?hl=en)
+>- [SpaceScenesAAA](https://chrome.google.com/webstore/detail/space-series-aaa/haimooppffppgehapnapppjfnjgmimcn?hl=en)
 
 ***
 
